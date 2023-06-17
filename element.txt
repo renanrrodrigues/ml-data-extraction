@@ -1,0 +1,9 @@
+
+
+paginação elements
+
+elemento para verificar se existe uma nova pagina se for > 0 existe mais pagina
+  document.getElementsByClassName('andes-pagination__button--next').length
+
+elemento para clicar na proxima pagina
+  document.getElementsByClassName('andes-pagination__button--next')[0].getElementsByClassName('ui-search-link')[0].click()

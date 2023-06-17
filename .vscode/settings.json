@@ -1,0 +1,9 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "FULLFILMENT"
+    ],
+    "python.analysis.extraPaths": [
+        "./model"
+    ]
+}
